@@ -15,3 +15,4 @@ end
 
 new_string = single_string.join("")
 new_string
+end
